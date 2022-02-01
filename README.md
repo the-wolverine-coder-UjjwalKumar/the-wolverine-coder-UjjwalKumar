@@ -10,19 +10,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-wolverine-coder-ujjwalkumar" alt="the-wolverine-coder-ujjwalkumar" /></a> </p>
 
-- 🔭 I’m currently working on **my internship projects**
+- 🔭 I’m currently working as **Associate Software Engineer**
 
 - 🌱 I’m currently learning **everything 😪**
 
-- 👯 I’m looking to collaborate with **teaching PYTHON - AI and ML,OPENCV**
+- 👯 I’m looking to collaborate with **teaching DSA, JAVA, BE DEVLOPMENT, SPRING BOOT, PYTHON - AI and ML, OPENCV, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-wolverine-coder-ujjwalkumar](https://github.com/the-wolverine-coder-ujjwalkumar)
 
-- 💬 Ask me about **C , JAVA, PYTHON, MACHINE LEARNING, DEEP LEARNING, OPENCV**
+- 💬 Ask me about **C , JAVA, DSA, PYTHON, MACHINE LEARNING, DEEP LEARNING, OPENCV**
 
-- 📫 How to reach me **uk9334336553@gmail.com**
+- 📫 How to reach me **ujjwal.kumar.official076@gmail.com**
 
-- ⚡ Fun fact **I love cooking.**
+- ⚡ Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,17 +57,22 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="Jenkins" /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50" height="50" alt="Docker" /> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" /> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50" alt="Amazon AWS" /> </a>
+  
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-wolverine-coder-ujjwalkumar&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="the-wolverine-coder-ujjwalkumar" /></p>
